@@ -42,3 +42,8 @@ By the end of this project, you'll have created a website that showcases your qu
 ## User Testing Plan
 ## Timeline and Milestones
 ## Review and Approval Process
+
+## Credits
+Images 
+Image by Free stock photos from www.rupixen.com from Pixabay
+Image by GrumpyBeere from Pixabay
