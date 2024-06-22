@@ -10,7 +10,8 @@ Estimated Time
 
     It takes approximately 7-9 hours to complete this project.
 
-Skills You'll Showcase
+
+### Skills You'll Showcase
 
     Use HTML to specify website contents
 
@@ -26,8 +27,14 @@ By the end of this project, you'll have created a website that showcases your qu
 
 
 
-*To Do*
+
 # Website Development Document
+Miro Board
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVK5PNU5I=/?moveToViewport=-22358,-8088,16248,7768&embedId=805941963115" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+[Team invite link](https://miro.com/welcomeonboard/d2RLaXRONUNTRDdOT1puRm9Jek5QOTM0S2NXMWhWVU9wMXhwRVFiY2gzM1YxUVdQVXZFcjV4SE5ldkhZNWhJVHwzNDU4NzY0NTczNzMwODYzNjQ5fDI=?share_link_id=310812570144)
+
+[Trello Board](https://trello.com/b/GsWkES0o/coursera-project-portfolio)
 
 ## Define Project Objectives
 ## User Research
@@ -44,6 +51,7 @@ By the end of this project, you'll have created a website that showcases your qu
 ## Review and Approval Process
 
 ## Credits
+
 Images 
 Image by Free stock photos from www.rupixen.com from Pixabay
 Image by GrumpyBeere from Pixabay
